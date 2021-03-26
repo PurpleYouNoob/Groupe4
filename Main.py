@@ -70,22 +70,3 @@ def start_game(maplink, player2type):
         game_state = end_game(clod_orders, ants, carte)
     return()
 
-
-def clod_action(clod_orders, ants, carte):
-
-    return()
-
-def end_game(clod_orders, ants, carte):
-
-    return()
-
-def attack(clod_orders, ants, carte):
-
-    return()
-
-def move(clod_orders, ants, carte):
-
-    return()
-
-def creation(ants, carte):
-    return()
